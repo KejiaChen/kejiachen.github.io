@@ -1,22 +1,52 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks"
+    authors: Tailai Cheng, <strong class="author-me">Kejia Chen*</strong>, Lingyun Chen, Liding Zhang, Yue Zhang, Yao Ling, Mahdi Hamad, Zhenshan Bing, Fan Wu, Karan Sharma, Alois Knoll (*Corresponding author)
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026. Accepted.
+    pdf: https://arxiv.org/pdf/2601.14550
+    page: https://tac-umi.github.io/TacUMI/
+    image: ./assets/img/publications/tacumi.jpg
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Multi-Robot Assembly of Deformable Linear Objects Using Multi-Modal Perception
+    authors: <strong class="author-me">Kejia Chen</strong>, Celina Dettmering, Florian Pachler, Zhuo Liu, Yue Zhang, Tailai Cheng, Jonas Dirr, Zhenshan Bing, Alois Knoll, Ruediger Daub
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2506.22034
+    page: https://kejiachen.github.io/DLOAssembly/
+    image: ./assets/img/publications/iros2025.jpg
+
+  - title: "Just-in-Time Informed Trees: Manipulability-Aware Asymptotically Optimized Motion Planning"
+    authors: Kuanqi Cai, Liding Zhang, Xinwen Su, <strong class="author-me">Kejia Chen</strong>, Chaoqun Wang, Sami Haddadin, Alois Knoll, Arash Ajoudani, Luis Figueredo
+    conference_short: TMECH
+    conference: IEEE/ASME Transactions on Mechatronics, 2025.
+    pdf: https://arxiv.org/pdf/2601.19972
+    image: ./assets/img/publications/tmech2025.jpg
+
+  - title: Preserving and Combining Knowledge in Robotic Lifelong Reinforcement Learning
+    authors: Yuan Meng, Zhenshan Bing, Xiangtong Yao, <strong class="author-me">Kejia Chen</strong>, Kai Huang, Yang Gao, Fuchun Sun, Alois Knoll
+    conference_short: NMI
+    conference: Nature Machine Intelligence, 2025.
+    image: ./assets/img/publications/nmi.jpg
+
+  - title: "LEMMo-Plan: LLM-Enhanced Learning from Multi-Modal Demonstration for Planning Sequential Contact-Rich Manipulation Tasks"
+    authors: <strong class="author-me">Kejia Chen</strong>, Zheng Shen, Yue Zhang, Lingyun Chen, Fan Wu, Zhenshan Bing, Sami Haddadin, Alois Knoll
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2409.11863
+    page: https://lemmo-plan.github.io/LEMMo-Plan/
+    image: ./assets/img/publications/lemmo-plan.jpg
+
+  - title: Real-time Contact State Estimation in Shape Control of Deformable Linear Objects under Small Environmental Constraints
+    authors: <strong class="author-me">Kejia Chen</strong>, Zhenshan Bing, Yansong Wu, Fan Wu, Liding Zhang, Sami Haddadin, Alois Knoll
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2401.17154
+    image: ./assets/img/publications/icra2024.jpg
+
+  - title: Contact-aware Shaping and Maintenance of Deformable Linear Objects with Fixtures
+    authors: <strong class="author-me">Kejia Chen</strong>, Zhenshan Bing, Fan Wu, Yuan Meng, Andre Kraft, Sami Haddadin, Alois Knoll
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2307.10153
+    image: ./assets/img/publications/iros2023.jpg
